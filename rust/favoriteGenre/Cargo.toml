@@ -1,0 +1,11 @@
+[package]
+name = "favoriteGenre"
+version = "0.1.0"
+authors = ["Norton Pigozzo <nortonpmjr@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+edn-rs = "0.16.11"
+itertools = "*"

@@ -1,0 +1,12 @@
+/Users/norton/Development/Lab/rust/favoriteGenre/target/debug/deps/edn_rs-b77f8ce895c8f1ca.rmeta: /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/lib.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/macros/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/edn/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/edn/utils/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/edn/utils/index.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/serialize/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/deserialize/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/deserialize/parse.rs
+
+/Users/norton/Development/Lab/rust/favoriteGenre/target/debug/deps/edn_rs-b77f8ce895c8f1ca.d: /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/lib.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/macros/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/edn/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/edn/utils/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/edn/utils/index.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/serialize/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/deserialize/mod.rs /Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/deserialize/parse.rs
+
+/Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/lib.rs:
+/Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/macros/mod.rs:
+/Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/edn/mod.rs:
+/Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/edn/utils/mod.rs:
+/Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/edn/utils/index.rs:
+/Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/serialize/mod.rs:
+/Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/deserialize/mod.rs:
+/Users/norton/.cargo/registry/src/github.com-1ecc6299db9ec823/edn-rs-0.16.12/src/deserialize/parse.rs:
